@@ -1,10 +1,6 @@
 //
 //  ForgotPasswordViewController.swift
 //  Platform
-//
-//  Created by Vishal Singh on 14/06/19.
-//  Copyright © 2019 Gwynniebee. All rights reserved.
-//
 
 import UIKit
 

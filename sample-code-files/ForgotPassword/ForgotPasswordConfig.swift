@@ -1,10 +1,6 @@
 //
 //  ForgotPasswordConfig.swift
 //  Platform
-//
-//  Created by Vishal Singh on 18/06/19.
-//  Copyright © 2019 Gwynniebee. All rights reserved.
-//
 
 extension Style {
     static var forgotPasswordConfig: ForgotPasswordConfig = JSONHelper.mapFromJSON(to: ForgotPasswordConfig.self)!

@@ -1,10 +1,6 @@
 //
 //  ForgotPasswordScreenState.swift
 //  Platform
-//
-//  Created by Vishal Singh on 17/06/19.
-//  Copyright © 2019 Gwynniebee. All rights reserved.
-//
 
 enum ForgotPasswordScreenState: Equatable {
     case enterEmail(_ emailError: String?), emailSent, loading

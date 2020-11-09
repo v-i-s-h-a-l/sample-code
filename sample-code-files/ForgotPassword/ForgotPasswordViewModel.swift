@@ -1,10 +1,6 @@
 //
 //  ForgotPasswordViewModel.swift
 //  Platform
-//
-//  Created by Vishal Singh on 14/06/19.
-//  Copyright © 2019 Gwynniebee. All rights reserved.
-//
 
 protocol ForgotPasswordViewDelegate: class {
     func updateState(_ state: ForgotPasswordScreenState)
